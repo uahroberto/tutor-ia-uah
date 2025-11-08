@@ -1,0 +1,13 @@
+# Archivo de claves secretas
+.env
+
+# Archivos y carpetas del entorno virtual
+/venv-312
+/.venv
+
+# Archivos de caché de Python
+__pycache__
+*.pyc
+
+# Archivos generados por LangChain (vectores)
+/faiss_index
